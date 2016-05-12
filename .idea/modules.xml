@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/PerfectUtils.iml" filepath="$PROJECT_DIR$/PerfectUtils.iml" />
       <module fileurl="file://$PROJECT_DIR$/pfutil/pfutil.iml" filepath="$PROJECT_DIR$/pfutil/pfutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testbed/testbed.iml" filepath="$PROJECT_DIR$/testbed/testbed.iml" />
     </modules>
   </component>
 </project>
