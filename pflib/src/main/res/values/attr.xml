@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PanZoomImageView">
+        <attr name="src" format="reference"/>
+        <attr name="scaleMode" format="integer">
+            <enum name="centerInside" value="0"/>
+            <enum name="centerCrop" value="1"/>
+        </attr>
+        <attr name="maxScale" format="float"/>
+    </declare-styleable>
+</resources>
