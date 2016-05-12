@@ -1,2 +1,2 @@
-# PerfectUtils
-Utilities for Perfect Corp.
+# PerfectLib
+Library for Perfect Corp.
