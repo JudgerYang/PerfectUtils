@@ -1,6 +1,7 @@
 *.iml
 .gradle
 build
-.idea/misc.xml
-.idea/workspace.xml
-
+.idea/.name
+.idea/*.xml
+.idea/libraries/*.xml
+local.properties
